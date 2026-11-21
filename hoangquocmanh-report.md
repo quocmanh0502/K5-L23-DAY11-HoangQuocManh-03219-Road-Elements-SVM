@@ -4,7 +4,6 @@ Phiên bản CVAT (Help → About): 2.82.0 (CVAT local)
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1  
 Thời điểm export (ngày giờ trên CVAT): 20/11/2026, front 11:22 UTC, front-extra 16:30 UTC, fisheye 16:25 UTC, fisheye-extra 15:37 UTC    Số lần nộp lại sau Rework: 0  
 
-Ghi chú: máy của tôi hỏng giữa buổi nên tôi mượn máy của bạn Nguyễn Mạnh Dũng và gán tiếp trên CVAT của máy đó (A01–A08, B01–B12). Các phần export từ hai máy được gộp lại thành đúng hai file nộp `hoangquocmanh-front.zip` (A01–A16) và `hoangquocmanh-fisheye.zip` (B01–B12), giữ nguyên tên ảnh và nhãn. Lab coach đã biết việc này và đồng ý cho tôi kiểm lô của bạn Dũng.
 
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
