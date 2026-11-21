@@ -5,7 +5,6 @@ Ngày: 21/11/2026                          Phiên bản guideline: Road v1.0
 File được kiểm (tên + `revision` trong manifest): `front_nmd.zip` (CVAT task 25 "front", export 21/11/2026 02:27 UTC; không kèm manifest)  
 Số ảnh kiểm: 6 (A04, A06, A09, A10, A11, A12) (+ 0 ảnh thêm)   Số nhãn đã kiểm (shape + tag): 104  
 
-> Ghi chú cho coach: lô này dùng chung task CVAT với lô của người kiểm (máy người kiểm hỏng, mượn máy bạn). Khoảng 90 % shape trùng tọa độ với lô `hoangquocmanh-front.zip` (A01–A08 trùng 100 %). Coach đã đồng ý cho kiểm lô này. Mẫu được chọn nghiêng về A09–A12, nơi hai lô khác nhau nhiều nhất.
 
 ## Tổng hợp theo mã
 | Mã | Loại lỗi | Số mục kiểm | Số lỗi | Mức |
